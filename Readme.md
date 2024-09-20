@@ -1,0 +1,1 @@
+Armazeno minhas atividades por aqui, sinta-se a vontade para utilizar como estudo (mesmo eu não recomendando)
