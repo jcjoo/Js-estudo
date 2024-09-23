@@ -1,5 +1,5 @@
 var x = parseFloat(prompt('Digite um número'));
-        var y = parseFloat(prompt('Digite outro número'));
+var y = parseFloat(prompt('Digite outro número'));
 
         if (x < y) {
             alert(y + ' é o maior número');
